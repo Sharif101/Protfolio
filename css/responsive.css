@@ -1,0 +1,988 @@
+@media(min-width:320px) and (max-width:575.98px){
+    /* =======nav start======= */
+    nav i{
+        color: #fff;
+    }
+    nav .navbar-toggler{
+        border-color: #fff;
+    }
+    nav .nav-item .overlay{
+        display: none;
+    }
+    nav .navbar-nav{
+        margin: 0 !important;
+    }
+    nav ul{
+        background: #d6c6b2;
+        border-radius: 5px;
+        z-index: 9999;
+    }
+    nav .navbar-nav li:hover a{
+        color: black;
+    }
+    nav .navbar .nav-item{
+        margin: 0 auto;
+    }
+    nav .navbar-nav li a {
+        padding-top: 16px;
+        text-align: center;
+    }
+    
+    /* =======nav end======= */
+
+    /* =======banner start======= */
+    #banner-part .img{
+        display: none;
+    }
+    #banner-part .text{
+        padding: 0;
+        padding-top: 170px;
+        width: auto;
+    }
+    #banner-part .text p {
+        font-size: 19px;
+        text-align: center;
+    }
+    #banner-part .text h2 {
+        font-size: 63px;
+        text-align: center;
+    }
+    #banner-part .text h3 {
+        font-size: 58px;
+        text-align: center;
+    }
+    #banner-part .item .btn {
+        display: flex;
+        justify-content: center;
+        margin-top: 26px;
+    }
+    #banner-part .item .btn a {
+        font-size: 14px;
+        padding: 5px 10px;
+        margin: 0 5px;
+    }
+
+    #banner-part .item {
+        padding-bottom: 25px;
+    }
+    #banner-part .text h3{
+        z-index: 0;
+    }
+    #banner-part .text h3{
+        position: revert ;
+    }
+    /* =======banner end======= */
+
+
+    /* =======about start======= */
+    #about-part {
+        padding-top: 30px;
+    }
+
+    #about-part .item {
+        padding-left: 0;
+    }
+    #about-part .item .title h2 {
+        padding-bottom: 7px;
+    }
+    #about-part .item .icon-part {
+        padding-top: 23px;
+    }
+
+    #about-part .item .icon-part li {
+        width: 40px;
+        height: 40px;
+        line-height: 41px;
+    }
+    #about-part .item .icon-part li i {
+        font-size: 22px;
+    }
+    #about-part .item .icon-part h3 {
+        padding-bottom: 20px;
+    }
+
+    #about-part {
+        padding-bottom: 35px;
+    }
+    /* =======about start======= */
+
+
+     /* =======service start======= */
+    #service-part .item p {
+        padding-bottom: 45px;
+    }
+
+    #service-part .title h2 {
+        padding: 35px 0;
+    }
+     /* =======service start======= */
+
+     /* =======portfolio start======= */
+     #portfolio-part {
+        padding: 55px 0;
+    }
+    #portfolio-part h2 {
+        text-align: left;
+    }
+
+    #portfolio-part .text ul li {
+        padding-top: 34px;
+        font-size: 19px;
+    }
+
+    #portfolio-part .btn a {
+        font-size: 18px;
+        padding: 7px 12px;
+        margin: 0;
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: -69px;
+        border-radius: 5px;
+    }
+    /* =======portfolio end======= */
+
+    /* =======testimonial start======= */
+
+  
+    #testimonial-part .item{
+        display: block;
+    }
+    #testimonial-part .img {
+        width: 71% !important;
+    }
+
+    #testimonial-part .title h2 {
+        padding: 23px 0;
+    }
+    #testimonial-part {
+        padding-bottom: 671px;
+    }s
+
+     /* =======testimonial end======= */
+
+
+    /* =======pricing start======= */
+
+    #pricing-part .title h2 {
+        padding-top: 35px;
+    }   
+
+    #pricing-part .item {
+        margin-bottom: 35px;
+    }
+
+    #pricing-part {
+        padding-bottom: 15px;
+    }
+     /* =======pricing end======= */
+
+
+     /* =======blog start======= */
+     #blog-part .item-one {
+        display: inline-block;
+    }
+    #blog-part .item-one .img {
+        width: 100%;
+    }
+
+    #blog-part .item-one .text {
+        width: 100%;
+    }
+
+    #blog-part .item-one .text .top {
+        font-size: 11px;
+    }
+
+    #blog-part .item-one .text .top .admin {
+        margin-right: 14px;
+    }
+
+    #blog-part .item-one .text .midle h3 {
+        font-size: 17px;
+    }
+
+    #blog-part .item-one .text .midle p {
+        font-size: 12px;
+    }
+
+    #blog-part .item-two .text .midle h3 {
+        font-size: 16px;
+    }
+    #blog-part .item-two .text .midle p {
+        font-size: 12px;
+    }
+
+    #blog-part .button a {
+        font-size: 17px;
+        padding: 7px 14px;
+    }
+
+    #blog-part .item-two .text {
+        width: 100%;
+        padding: 30px 20px;
+    }
+
+    #blog-part .item-one .text {
+        padding: 0;
+        padding: 29px 20px;
+    }
+
+    #blog-part .item-two .text .admin {
+        margin-right: 23px;
+    }
+
+    #blog-part .item-two .text .top {
+        font-size: 11px;
+    }
+
+    #blog-part .item-two .text {
+        padding: 27px 16px;
+    }
+    /* =======blog end======= */
+
+
+    /* =======message start======= */
+
+    #from-part .text .contact li i {
+        padding-right: 7px;
+    }
+
+    #from-part .text h4 {
+        padding-top: 25px;
+        padding-bottom: 30px;
+    }
+
+    #from-part .text .icon ul li {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-right: 8px;
+    }
+
+    #from-part .text .icon ul li i {
+        font-size: 20px;
+    }
+
+    #from-part .text .icon ul {
+        margin-bottom: 35px;
+    }
+
+    #from-part .form {
+        padding: 20px;
+    }
+
+    #from-part .form .first input {
+    
+        width: 100%;
+        padding: 10px 0 10px 6px;
+        margin-bottom: 10px;
+    }
+       
+    #from-part .form .second textarea {
+        width: 100%;
+        height: 120px;
+    }
+
+    #from-part .form .second .btn a {
+        width: 70px;
+        height: 40px;
+        padding: 10px 8px;
+        bottom: -47px;
+        right: 83px;
+        clip-path: none;
+    }
+
+    #from-part .form .btn p {
+        font-size: 15px;
+    }
+
+    #from-part .form .second .btn a i {
+        display: none;
+    }
+
+    #from-part .form .btn p {
+        font-size: 15px;
+        display: block;
+    }
+    #from-part .form {
+        padding-bottom: 65px;
+    }
+    /* =======message end======= */
+
+
+    footer p {
+        font-size: 13px;
+    }
+
+    footer {
+        padding: 14px 0;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+    /* =======nav start======= */
+    nav i{
+        color: #fff;
+    }
+    nav .navbar-toggler{
+        border-color: #fff;
+    }
+    nav .nav-item .overlay{
+        display: none;
+    }
+    nav .navbar-nav{
+        margin: 0 !important;
+    }
+    nav ul{
+        background: #d6c6b2;
+        border-radius: 5px;
+        z-index: 9999;
+    }
+    nav .navbar-nav li:hover a{
+        color: black;
+    }
+    nav .navbar .nav-item{
+        margin: 0 auto;
+    }
+    nav .navbar-nav li a {
+        padding-top: 16px;
+        text-align: center;
+    }
+    
+    /* =======nav end======= */
+
+    /* =======banner start======= */
+    #banner-part .img{
+        display: none;
+    }
+    #banner-part .text{
+        padding: 0;
+        padding-top: 170px;
+        width: auto;
+    }
+    #banner-part .text p {
+        font-size: 19px;
+        text-align: center;
+    }
+    #banner-part .text h2 {
+        font-size: 63px;
+        text-align: center;
+    }
+    #banner-part .text h3 {
+        font-size: 58px;
+        text-align: center;
+    }
+    #banner-part .item .btn {
+        display: flex;
+        justify-content: center;
+        margin-top: 26px;
+    }
+    #banner-part .item .btn a {
+        font-size: 14px;
+        padding: 5px 10px;
+        margin: 0 5px;
+    }
+
+    #banner-part .item {
+        padding-bottom: 25px;
+    }
+    #banner-part .text h3{
+        z-index: 0;
+    }
+    #banner-part .text h3{
+        position: revert ;
+    }
+    /* =======banner end======= */
+
+
+    /* =======about start======= */
+    #about-part {
+        padding-top: 30px;
+    }
+
+    #about-part .img
+    {
+        width: 70%;
+    }
+
+    #about-part .item {
+        padding-left: 0;
+    }
+    #about-part .item .title h2 {
+        padding-bottom: 7px;
+    }
+    #about-part .item .icon-part {
+        padding-top: 23px;
+    }
+
+    #about-part .item .icon-part li {
+        width: 40px;
+        height: 40px;
+        line-height: 41px;
+    }
+    #about-part .item .icon-part li i {
+        font-size: 22px;
+    }
+    #about-part .item .icon-part h3 {
+        padding-bottom: 20px;
+    }
+
+    #about-part {
+        padding-bottom: 35px;
+    }
+    /* =======about start======= */
+
+
+     /* =======service start======= */
+    #service-part .item p {
+        padding-bottom: 45px;
+    }
+
+    #service-part .title h2 {
+        padding: 35px 0;
+    }
+     /* =======service start======= */
+
+     /* =======portfolio start======= */
+     #portfolio-part {
+        padding: 55px 0;
+    }
+    #portfolio-part h2 {
+        text-align: left;
+    }
+
+    #portfolio-part .text ul li {
+        padding-top: 34px;
+        font-size: 19px;
+    }
+
+    #portfolio-part .btn a {
+        font-size: 18px;
+        padding: 7px 12px;
+        margin: 0;
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: -69px;
+        border-radius: 5px;
+    }
+    /* =======portfolio end======= */
+
+    /* =======testimonial start======= */
+
+  
+    #testimonial-part .item{
+        display: block;
+    }
+    #testimonial-part .img {
+        width: 45% !important;
+    }
+
+    #testimonial-part .title h2 {
+        padding: 23px 0;
+    }
+    #testimonial-part {
+        padding-bottom: 705px;
+    }
+
+     /* =======testimonial end======= */
+
+
+    /* =======pricing start======= */
+
+    #pricing-part .title h2 {
+        padding-top: 35px;
+    }   
+
+    #pricing-part .item {
+        margin-bottom: 35px;
+    }
+
+    #pricing-part {
+        padding-bottom: 15px;
+    }
+     /* =======pricing end======= */
+
+
+     /* =======blog start======= */
+     #blog-part .item-one {
+        display: inline-block;
+    }
+    #blog-part .item-one .img {
+        width: 100%;
+    }
+
+    #blog-part .item-one .text {
+        width: 100%;
+    }
+
+    #blog-part .item-one .text .top {
+        font-size: 14px;
+    }
+
+    #blog-part .item-one .text .top .admin {
+        margin-right: 175px;
+    }
+
+    #blog-part .item-one .text .midle h3 {
+        font-size: 22px;
+    }
+
+    #blog-part .item-one .text .midle p {
+        font-size: 14px;
+    }
+
+    #blog-part .item-two .text .midle h3 {
+        font-size: 22px;
+    }
+    #blog-part .item-two .text .midle p {
+        font-size: 14px;
+    }
+
+    #blog-part .button a {
+        font-size: 17px;
+        padding: 7px 14px;
+    }
+
+    #blog-part .item-two .text {
+        width: 100%;
+        padding: 30px 20px;
+    }
+
+    #blog-part .item-one .text {
+        padding: 0;
+        padding: 29px 20px;
+    }
+
+    #blog-part .item-two .text .admin {
+        margin-right: 186px;
+    }
+
+    #blog-part .item-two .text .top {
+        font-size: 14px;
+    }
+
+    #blog-part .item-two .text {
+        padding: 27px 16px;
+    }
+    /* =======blog end======= */
+
+
+    /* =======message start======= */
+
+    #from-part .text .contact li i {
+        padding-right: 7px;
+    }
+
+    #from-part .text h4 {
+        padding-top: 25px;
+        padding-bottom: 30px;
+    }
+
+    #from-part .text .icon ul li {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-right: 8px;
+    }
+
+    #from-part .text .icon ul li i {
+        font-size: 20px;
+    }
+
+    #from-part .text .icon ul {
+        margin-bottom: 35px;
+    }
+
+    #from-part .form {
+        padding: 20px;
+    }
+
+    #from-part .form .first input {
+    
+        width: 100%;
+        padding: 10px 0 10px 6px;
+        margin-bottom: 10px;
+    }
+       
+    #from-part .form .second textarea {
+        width: 100%;
+        height: 120px;
+    }
+
+   
+
+#from-part .form .second .btn a {
+    bottom: 25px;
+    right: 1px;
+    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+}
+
+    #from-part .form .btn i
+    {
+        display: block;
+    }
+
+    #from-part .form .btn p {
+        font-size: 15px;
+        display: none;
+    }
+    #from-part .form {
+        padding-bottom: 32px;
+    }
+    /* =======message end======= */
+
+
+    footer p {
+        font-size: 13px;
+    }
+
+    footer {
+        padding: 14px 0;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    /* =======nav start======= */
+    nav i{
+        color: #fff;
+    }
+    nav .navbar-toggler{
+        border-color: #fff;
+    }
+    nav .nav-item .overlay{
+        display: none;
+    }
+    nav .navbar-nav{
+        margin: 0 !important;
+    }
+    nav ul{
+        background: #d6c6b2;
+        border-radius: 5px;
+        z-index: 9999;
+    }
+    nav .navbar-nav li:hover a{
+        color: black;
+    }
+    nav .navbar .nav-item{
+        margin: 0 auto;
+    }
+    nav .navbar-nav li a {
+        padding-top: 16px;
+        text-align: center;
+    }
+    
+    /* =======nav end======= */
+
+    /* =======banner start======= */
+    #banner-part .img{
+        display: none;
+    }
+    #banner-part .text{
+        padding: 0;
+        padding-top: 170px;
+        width: auto;
+    }
+    #banner-part .text p {
+        font-size: 19px;
+        text-align: center;
+    }
+    #banner-part .text h2 {
+        font-size: 63px;
+        text-align: center;
+    }
+    #banner-part .text h3 {
+        font-size: 58px;
+        text-align: center;
+    }
+    #banner-part .item .btn {
+        display: flex;
+        justify-content: center;
+        margin-top: 26px;
+    }
+    #banner-part .item .btn a {
+        font-size: 14px;
+        padding: 5px 10px;
+        margin: 0 5px;
+    }
+
+    #banner-part .item {
+        padding-bottom: 25px;
+    }
+    #banner-part .text h3{
+        z-index: 0;
+    }
+    #banner-part .text h3{
+        position: revert ;
+    }
+    /* =======banner end======= */
+
+
+    /* =======about start======= */
+    #about-part {
+        padding-top: 30px;
+    }
+
+    #about-part .img {
+        width: 100%;
+        padding-top: 120px;
+    }
+
+    #about-part .item {
+        padding-left: 0;
+    }
+    #about-part .item .title h2 {
+        padding-bottom: 7px;
+        text-align: left;
+    }
+    #about-part .item .icon-part {
+        padding-top: 37px;
+    }
+
+    #about-part .item .icon-part li {
+        width: 40px;
+        height: 40px;
+        line-height: 41px;
+    }
+    #about-part .item .icon-part li i {
+        font-size: 22px;
+    }
+    #about-part .item .icon-part h3 {
+        padding-bottom: 20px;
+    }
+
+    #about-part {
+        padding-bottom: 50px;
+    }
+    /* =======about start======= */
+
+
+     /* =======service start======= */
+    #service-part .item p {
+        padding-bottom: 45px;
+    }
+
+    #service-part .title h2 {
+        padding: 35px 0;
+    }
+     /* =======service start======= */
+
+     /* =======portfolio start======= */
+     #portfolio-part {
+        padding: 55px 0;
+    }
+    #portfolio-part h2 {
+        text-align: left;
+    }
+
+    #portfolio-part .text ul li {
+        padding-top: 34px;
+        font-size: 19px;
+    }
+
+    #portfolio-part .btn a {
+        font-size: 18px;
+        padding: 7px 12px;
+        margin: 0;
+        margin: 0;
+        margin-top: 30px;
+        margin-bottom: -69px;
+        border-radius: 5px;
+    }
+    /* =======portfolio end======= */
+
+    /* =======testimonial start======= */
+
+  
+    #testimonial-part .item{
+        display: block;
+    }
+    #testimonial-part .img {
+        width: 45% !important;
+    }
+
+    #testimonial-part .title h2 {
+        padding: 23px 0;
+    }
+    #testimonial-part {
+        padding-bottom: 705px;
+    }
+
+     /* =======testimonial end======= */
+
+
+    /* =======pricing start======= */
+
+    #pricing-part .title h2 {
+        padding-top: 35px;
+    }   
+
+    #pricing-part .item {
+        margin-bottom: 35px;
+    }
+
+    #pricing-part {
+        padding-bottom: 15px;
+    }
+     /* =======pricing end======= */
+
+
+     /* =======blog start======= */
+     #blog-part .item-one {
+        display: inline-flex;
+    }
+    #blog-part .item-one .img {
+        width: 100%;
+        height: 307px;
+    }
+
+    #blog-part .item-one .img img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #blog-part .item-one .text {
+        width: 100%;
+    }
+
+    #blog-part .item-one .text .top {
+        font-size: 12px;
+    }
+
+    #blog-part .item-one .text .top .admin {
+        margin-right: 59px;
+    }
+
+    #blog-part .item-one .text .midle h3 {
+        font-size: 22px;
+    }
+
+    #blog-part .item-one .text .midle p {
+        font-size: 14px;
+    }
+
+    #blog-part .item-two
+    {
+        display: flex;
+    }
+
+    #blog-part .item-two .img {
+        position: relative;
+        width: 100%;
+    }
+
+    #blog-part .item-two .text {
+        padding: 27px 6px;
+    }
+
+    #blog-part .item-two .text .midle h3 {
+        font-size: 16px;
+    }
+    #blog-part .item-two .text .midle p {
+        font-size: 11px;
+    }
+
+    #blog-part .button a {
+        font-size: 17px;
+        padding: 7px 14px;
+    }
+
+    #blog-part .item-two .text {
+        width: 100%;
+        padding: 30px 7px;
+    }
+
+    #blog-part .item-one .text {
+        padding: 0;
+        padding: 29px 20px;
+    }
+
+    #blog-part .item-two .text .admin {
+        margin-right: 68px;
+    }
+
+    #blog-part .item-two .text .top {
+        font-size: 12px;
+    }
+
+    #blog-part .item-two .text {
+        padding: 11px 8px;
+    }
+    /* =======blog end======= */
+
+
+    /* =======message start======= */
+
+    #from-part .text .contact li i {
+        padding-right: 7px;
+    }
+
+    #from-part .text h4 {
+        padding-top: 25px;
+        padding-bottom: 30px;
+    }
+
+    #from-part .text .icon ul li {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        margin-right: 8px;
+    }
+
+    #from-part .text .icon ul li i {
+        font-size: 20px;
+    }
+
+    #from-part .text .icon ul {
+        margin-bottom: 35px;
+    }
+
+    #from-part .form {
+        padding: 20px;
+    }
+
+    #from-part .form .first input {
+    
+        width: 100%;
+        padding: 10px 0 10px 6px;
+        margin-bottom: 10px;
+    }
+       
+    #from-part .form .second textarea {
+        width: 100%;
+        height: 120px;
+    }
+
+   
+
+#from-part .form .second .btn a {
+    bottom: 25px;
+    right: 1px;
+    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+}
+
+    #from-part .form .btn i
+    {
+        display: block;
+    }
+
+    #from-part .form .btn p {
+        font-size: 15px;
+        display: none;
+    }
+    #from-part .form {
+        padding-bottom: 32px;
+    }
+
+    
+    /* =======message end======= */
+
+
+    footer p {
+        font-size: 16px;
+    }
+
+    footer {
+        padding: 14px 0;
+    }
+}
+
